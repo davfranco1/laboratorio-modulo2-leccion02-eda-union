@@ -1,1 +1,2 @@
-# laboratorio-modulo2-leccion02-eda-union
+# Laboratorio Módulo2 Lección 2 EDA Unión
+Conclusiones en el código
